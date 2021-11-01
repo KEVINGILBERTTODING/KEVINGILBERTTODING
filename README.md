@@ -6,7 +6,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ![bg1](https://user-images.githubusercontent.com/79959818/139663322-ed2f4fbc-c18e-410b-bdc1-7c835514b787.png)
 
-![kisspng-pumpkin-5d3a9f887d7293 5720354015641230165138](https://user-images.githubusercontent.com/79959818/139662578-a10eecd3-d139-4e26-8548-af8ed17f22ee.png)
+
 
 
 
