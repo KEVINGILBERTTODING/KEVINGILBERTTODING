@@ -4,7 +4,7 @@ Hi this is Kevin Gilbert Toding, I'm new here :)
 <br>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-![Untitled-1](https://user-images.githubusercontent.com/79959818/139661138-d4699be5-72b2-4ccf-b544-d601b9d1f870.png)
+![bg1](https://user-images.githubusercontent.com/79959818/139663322-ed2f4fbc-c18e-410b-bdc1-7c835514b787.png)
 
 ![kisspng-pumpkin-5d3a9f887d7293 5720354015641230165138](https://user-images.githubusercontent.com/79959818/139662578-a10eecd3-d139-4e26-8548-af8ed17f22ee.png)
 
