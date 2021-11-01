@@ -1,5 +1,5 @@
 
-<img align='right' src='https://i.pinimg.com/originals/f3/c8/f9/f3c8f9ea0ce3de3991a9ebd35bfd7495.gif' width='300'>
+<img align='right' src='https://i.pinimg.com/originals/f3/c8/f9/f3c8f9ea0ce3de3991a9ebd35bfd7495.gif' width='400'>
 <h1>Kevin Gilbert Toding</h1>
 Hi this is Kevin Gilbert Toding
 
