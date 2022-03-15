@@ -11,7 +11,7 @@ A Kevin, especially a second generation Kevin, is such a sweet and handsome man 
 Wow, <br>
 <b>sure is lucky to have a guy like Kevin as the love of her life.</b>
 
-<img src='https://www.pngkey.com/png/full/149-1491954_410kib-1024x1024-sanic-sonic-boom.png'>
+<img align='left' src='https://www.pngkey.com/png/full/149-1491954_410kib-1024x1024-sanic-sonic-boom.png' width='500' height='600'>
 
 
 
