@@ -1,5 +1,5 @@
 
-<img align='right' src='https://thumbs.gfycat.com/AntiqueQualifiedHoverfly-max-1mb.gif' width='500' height='600'>
+<!-- <img align='right' src='https://thumbs.gfycat.com/AntiqueQualifiedHoverfly-max-1mb.gif' width='500' height='600'> -->
 
 
 
