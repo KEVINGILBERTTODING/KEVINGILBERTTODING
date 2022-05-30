@@ -46,6 +46,8 @@
   </a><br/>
   <a href="https://github.com/MrStanDu33/spotify-informer"><img src="https://img.shields.io/badge/built%20with%20MrStanDu33%2Fspotify‑informer-1ED760.svg?style=flat-square&logo=spotify&logoColor=white"/></a><br/>
 </p> -->
+  
+   <img src = "https://github-readme-streak-stats.herokuapp.com?user=KEVINGILBERTTODING&theme=light&hide_border=true" width = 400>
 
 
 ##### BIO
