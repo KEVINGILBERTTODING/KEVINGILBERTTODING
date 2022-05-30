@@ -38,6 +38,8 @@
   <a href="https://twitter.com/xxivcvnbx"><img src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 </p>
 <p>
+  
+  <img src="http://views.whatilearened.today/views/github/KEVINGILBERTTODING/views.svg"/>
 <!--   🎶Now playing ...🎶<br/>
   <a href="http://spotify-informer.daniels-roth-stan.fr/">
     <img height="75" src="http://spotify-informer.daniels-roth-stan.fr/api"/>
