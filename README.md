@@ -58,7 +58,7 @@
 
 
 - 🏢 I'm currently working on **Android Studio**
-- ⚙️ I use daily: `.php`, `.js`, `.html`, `.css`, `.svg`, `.psd`, `.ai, .java`
+- ⚙️ I use daily: `.java, .php`,`.html`, `.css`, `.fig`, `.psd`
 - 🌱 I’m currently learning **Android Application using Java**
 - 👯 I’m looking to collaborate on **Android development and building applications using Java**
 - 💬 Ping me about **design**, **Android Application using Java**, **development**, **design thinking**
