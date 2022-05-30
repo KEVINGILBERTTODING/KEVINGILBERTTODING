@@ -62,7 +62,7 @@
 - 🏢 I'm currently working on **Android Studio**
 - ⚙️ I use daily: `.java, .php`,`.html`, `.css`, `.fig`, `.psd`
 - 🌱 I’m currently learning **Android Application using Java**
-- 💬 Ping me about **design**, **Android Application using Java**, **development**, **kpop**, **jkt48**
+- 💬 Ping me about **design**, **Android Application using Java**, **development**, **php**, **kpop**, **jkt48**
 - 📫 Reach me: [https://www.instagram.com/xxivcvnbxx/](https://www.instagram.com/xxivcvnbxx/)
 - ⚡️ Fun fact: I'm a huge fan of Kpop Songs
 
