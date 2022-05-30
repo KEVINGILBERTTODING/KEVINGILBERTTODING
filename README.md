@@ -1,18 +1,23 @@
 
-<!-- <img align='right' src='https://thumbs.gfycat.com/AntiqueQualifiedHoverfly-max-1mb.gif' width='500' height='600'> -->
+### Hi there 👋
 
+#### I'm a Student at Dian Nuswantoro Univesity, Indonesia.
 
+##### NOW
 
+- 🍑 What about this?
 
-<h1>Kevin Gilbert Toding</h1>
+##### BIO
 
-<h4>Hi this is Kevin Gilbert Toding, Peace Out ✌️,</h4>
-<br>
-A Kevin, especially a second generation Kevin, is such a sweet and handsome man that everyone wants to get to know. He never fails to make you laugh. Kevin is always there when you need him and knows exactly what to say at the right time. No matter how stubborn you may be, a Kevin knows how to bring you back down to Earth. He is very calm and levelheaded. A Kevin can talk to you for hours and the conversation never gets old. He is a very good listener, who makes you see things in ways you would never dream of seeing otherwise. Kevin can be quite the head turner, but he is always loyal. He deeply cares about trust and it can be extremely hard to earn it back once it is gone. A Kevin loves passionately and once he has fallen for someone special, he would do anything and everything in his power to keep her. He always knows how to make you feel like the most beautiful and special girl in the world. There is never a dull moment with a Kevin.
-Wow, <br>
-<b>sure is lucky to have a guy like Kevin as the love of her life.</b>
-
-
+- 🏢 I'm currently working on **Android Studio**
+- ⚙️ I use daily: `.php`, `.js`, `.html`, `.css`, `.svg`, `.psd`, `.ai`
+- 🌱 I’m currently learning **Android Application using Java**
+- 👯 I’m looking to collaborate on **Android development and building applications using Java**
+- 💅 Designed: @pestphp, [NorthMeetsSouth.audio](https://www.northmeetssouth.audio), [ThenPing.me](https://thenping.me), [HappydDev.fm](https://www.happydev.fm), etc…
+- 🌱 Learning all about **Open Source**
+- 💬 Ping me about **design**, **Android Application using Java**, **development**, **design thinking**
+- 📫 Reach me: [https://www.instagram.com/xxivcvnbxx/](https://www.instagram.com/xxivcvnbxx/)
+- ⚡️ Fun fact: I'm a huge fan of Kpop Songs
 
 
 
