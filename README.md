@@ -1,8 +1,13 @@
 
 <h2>Hi 👋, I'm Kevin Gilbert Toding!</h1>
 
-#### I'm a Student at Dian Nuswantoro Univesity, Semarang
+<h3>  I am a beginner android developer 📱</h3>
 
+<p>
+  
+  I'm a Student at Dian Nuswantoro Univesity, Semarang. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️
+
+  <br>
 <p>
   <img align="left" width="490" height="165" src="https://github-readme-stats.vercel.app/api?username=KEVINGILBERTTODING&show_icons=true&hide_border=false&line_height=20&title_color=f69673&icon_color=1b93c9&show_owner=true"/>
   <p>
