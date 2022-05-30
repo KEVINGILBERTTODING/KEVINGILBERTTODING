@@ -47,10 +47,15 @@
   <a href="https://github.com/MrStanDu33/spotify-informer"><img src="https://img.shields.io/badge/built%20with%20MrStanDu33%2Fspotify‑informer-1ED760.svg?style=flat-square&logo=spotify&logoColor=white"/></a><br/>
 </p> -->
   
-   <img src = "https://github-readme-streak-stats.herokuapp.com?user=KEVINGILBERTTODING&theme=light&hide_border=true" width = 400>
+<p>
+  
+ <img align="right" width="490" height="165" src = "https://github-readme-streak-stats.herokuapp.com?user=KEVINGILBERTTODING&theme=light&hide_border=false&line_height=20&title_color=f69673&icon_color=1b93c9&show_owner=true">
+  </p>
+
 
 
 ##### BIO
+
 
 - 🏢 I'm currently working on **Android Studio**
 - ⚙️ I use daily: `.php`, `.js`, `.html`, `.css`, `.svg`, `.psd`, `.ai, .java`
@@ -60,6 +65,8 @@
 - 💬 Ping me about **design**, **Android Application using Java**, **development**, **design thinking**
 - 📫 Reach me: [https://www.instagram.com/xxivcvnbxx/](https://www.instagram.com/xxivcvnbxx/)
 - ⚡️ Fun fact: I'm a huge fan of Kpop Songs
+
+  
 
 
 
