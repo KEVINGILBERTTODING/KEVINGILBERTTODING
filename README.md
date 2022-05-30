@@ -1,7 +1,7 @@
 
-### Hi there 👋
+<h2>Hi 👋, I'm Kevin Gilbert Toding!</h1>
 
-#### I'm a Student at Dian Nuswantoro Univesity, Indonesia.
+#### I'm a Student at Dian Nuswantoro Univesity, Semarang.
 
 <p>
   <img align="left" width="490" height="165" src="https://github-readme-stats.vercel.app/api?username=KEVINGILBERTTODING&show_icons=true&hide_border=false&line_height=20&title_color=f69673&icon_color=1b93c9&show_owner=true"/>
@@ -23,7 +23,6 @@
     <img src="https://img.shields.io/badge/-ESLint-4B32C3?style=flat-square&logo=ESLint&logoColor=white"/>
     <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
     <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Debian-A80030?style=flat-square&logo=Debian&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat-square&logo=Google%20Cloud&logoColor=white"/>
     <img src="https://img.shields.io/badge/-OVH%20Cloud-123F6D?style=flat-square&logo=OVH&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Codacy-222F29?style=flat-square&logo=Codacy&logoColor=white"/>
@@ -58,7 +57,6 @@
 - 🏢 I'm currently working on **Android Studio**
 - ⚙️ I use daily: `.java, .php`,`.html`, `.css`, `.fig`, `.psd`
 - 🌱 I’m currently learning **Android Application using Java**
-- 👯 I’m looking to collaborate on **Android development and building applications using Java**
 - 💬 Ping me about **design**, **Android Application using Java**, **development**, **design thinking**
 - 📫 Reach me: [https://www.instagram.com/xxivcvnbxx/](https://www.instagram.com/xxivcvnbxx/)
 - ⚡️ Fun fact: I'm a huge fan of Kpop Songs
