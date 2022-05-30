@@ -3,14 +3,11 @@
 
 #### I'm a Student at Dian Nuswantoro Univesity, Indonesia.
 
-##### NOW
-
-- 🍑 What about this?
 
 ##### BIO
 
 - 🏢 I'm currently working on **Android Studio**
-- ⚙️ I use daily: `.php`, `.js`, `.html`, `.css`, `.svg`, `.psd`, `.ai`
+- ⚙️ I use daily: `.php`, `.js`, `.html`, `.css`, `.svg`, `.psd`, `.ai, .java`
 - 🌱 I’m currently learning **Android Application using Java**
 - 👯 I’m looking to collaborate on **Android development and building applications using Java**
 - 🌱 Learning all about **Open Source**
