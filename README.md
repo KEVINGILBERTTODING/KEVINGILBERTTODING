@@ -39,7 +39,7 @@
 </p>
 <p>
   
-  <img src="http://views.whatilearened.today/views/github/KEVINGILBERTTODING/views.svg"/>
+
 <!--   🎶Now playing ...🎶<br/>
   <a href="http://spotify-informer.daniels-roth-stan.fr/">
     <img height="75" src="http://spotify-informer.daniels-roth-stan.fr/api"/>
@@ -61,10 +61,11 @@
 - ⚙️ I use daily: `.php`, `.js`, `.html`, `.css`, `.svg`, `.psd`, `.ai, .java`
 - 🌱 I’m currently learning **Android Application using Java**
 - 👯 I’m looking to collaborate on **Android development and building applications using Java**
-- 🌱 Learning all about **Android App**
 - 💬 Ping me about **design**, **Android Application using Java**, **development**, **design thinking**
 - 📫 Reach me: [https://www.instagram.com/xxivcvnbxx/](https://www.instagram.com/xxivcvnbxx/)
 - ⚡️ Fun fact: I'm a huge fan of Kpop Songs
+
+  <img src="http://views.whatilearened.today/views/github/KEVINGILBERTTODING/views.svg"/>
 
   
 
