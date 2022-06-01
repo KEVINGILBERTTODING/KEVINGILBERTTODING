@@ -5,7 +5,7 @@
 
 <p>
   
-  I'm a Student at Dian Nuswantoro Univesity, Semarang. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️
+  I'm a Student at Dian Nuswantoro University, Semarang. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️
 
   <br>
 <p>
