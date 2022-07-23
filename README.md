@@ -1,7 +1,7 @@
 
 <h2>Hi 👋, I'm Kevin Gilbert Toding!</h1>
 
-<h3>  I am a beginner android developer 📱</h3>
+<h3>  I am a junior android developer 📱</h3>
 
 <p>
   
