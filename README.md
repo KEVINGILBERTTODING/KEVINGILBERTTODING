@@ -1,7 +1,7 @@
 
 <h2>Hi 👋, I'm Kevin Gilbert Toding!</h1>
 
-<h3>  I am a junior android developer 📱</h3>
+<h3>  I am a junior fullstack android developer 📱</h3>
 
 <p>
   
@@ -60,7 +60,7 @@
 
 
 - 🏢 I'm currently working on **Android Studio**
-- ⚙️ I use daily: `.java, .php`,`.html`, `.css`, `.fig`, `.psd`
+- ⚙️ I use daily: `.java, .php`, `.fig`, `.psd`
 - 🌱 I’m currently learning **Android Application using Java**
 - 💬 Ping me about **design**, **Android Application using Java**, **development**, **php**, **kpop**, **jkt48**
 - 📫 Reach me: [https://www.instagram.com/xxivcvnbxx/](https://www.instagram.com/xxivcvnbxx/)
