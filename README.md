@@ -1,5 +1,5 @@
 
-<h2>Hi 👋, I'm Kevin Gilbert Toding!</h1>
+<h1>Hi 👋, I'm Kevin Gilbert Toding!</h1>
 
 <h2>  I am a fullstack android developer 📱</h2>
 
