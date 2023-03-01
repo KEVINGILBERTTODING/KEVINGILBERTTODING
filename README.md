@@ -59,7 +59,7 @@
 <h3> 🧐 More About Me:</h3>
 
 
-- 🏢 I'm currently working on **Android Studio**
+- 🏢 I'm currently working on **Android Studio** and **VsCode**
 - ⚙️ I use daily: `.java, .php`, `.fig`, `.psd`
 - 🌱 I’m currently learning **Android Application using Java**
 - 💬 Ping me about **UI**, **Android Application using Java**, **development**, **php**, **kpop**, **jkt48**
