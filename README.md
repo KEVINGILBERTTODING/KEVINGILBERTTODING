@@ -1,7 +1,7 @@
 
 <h1>Hi 👋, I'm Kevin Gilbert Toding!</h1>
 
-<h2>  I am a software engineer 📱</h2>
+<h2>  I am a fullstack developer 📱</h2>
 
 <p>
   
