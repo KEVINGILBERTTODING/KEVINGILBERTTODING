@@ -60,7 +60,7 @@
 
 
 - 🏢 I'm currently working on **Android Studio** and **VsCode**
-- ⚙️ I use daily: `.java, .php`, `.fig`, `.psd`
+- ⚙️ I use daily: .java, .php`, .dart, .fig, .psd
 - 🌱 I’m currently learning **Android Application using Java** and **Web Application using Codeigniter**
 - 💬 Ping me about **UI**, **Android Application using Java**, **Web Application using php**,**kpop**, **jkt48**
 - 📫 Reach me: [https://www.instagram.com/xxivcvnbxx/](https://www.instagram.com/xxivcvnbxx/)
