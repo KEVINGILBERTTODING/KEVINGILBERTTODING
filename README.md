@@ -5,7 +5,7 @@
 
 <p>
   
-  Android Developer at PT Lippo General Insurance
+  Android Developer at PT Lippo General Insurance Tbk
 
   <br>
 <p>
