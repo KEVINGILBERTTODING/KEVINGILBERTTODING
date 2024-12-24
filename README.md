@@ -61,8 +61,8 @@
 
 - 🏢 I'm currently working on **Android Studio** and **VsCode**
 - ⚙️ I use daily: .java, .php`, .dart, .fig, .psd
-- 🌱 I’m currently learning **Android Application using Java** and **Web Application using Codeigniter**
-- 💬 Ping me about **UI**, **Android Application using Java**, **Web Application using php**,**kpop**, **jkt48**
+- 🌱 I’m currently learning **Android Application using Java, Kotlin, and Flutter** and **Web Application using Laravel**
+- 💬 Ping me about **UI**, **Android Application using Java, Kotlin, and Flutter**, **Web Application using php**,**kpop**, **jkt48**
 - 📫 Reach me: [https://www.instagram.com/xxivcvnbxx/](https://www.instagram.com/xxivcvnbxx/)
 - ⚡️ Fun fact: I'm a huge fan of Kpop Songs
 
