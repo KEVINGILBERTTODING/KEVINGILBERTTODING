@@ -1,21 +1,8 @@
 [
-  { "id": 1, "name": "Indonesia - Jakarta", "lat": "-6.193932715082624", "lng": "106.84937065233879" },
-  { "id": 2, "name": "United States - New York", "lat": "40.7128", "lng": "-74.0060" },
-  { "id": 3, "name": "Brazil - Sao Paulo", "lat": "-23.5505", "lng": "-46.6333" },
-  { "id": 4, "name": "Japan - Tokyo", "lat": "35.6895", "lng": "139.6917" },
-  { "id": 5, "name": "India - Mumbai", "lat": "19.0760", "lng": "72.8777" },
-  { "id": 6, "name": "United Kingdom - London", "lat": "51.5074", "lng": "-0.1278" },
-  { "id": 7, "name": "Germany - Berlin", "lat": "52.5200", "lng": "13.4050" },
-  { "id": 8, "name": "France - Paris", "lat": "48.8566", "lng": "2.3522" },
-  { "id": 9, "name": "Canada - Toronto", "lat": "43.6532", "lng": "-79.3832" },
-  { "id": 10, "name": "Australia - Sydney", "lat": "-33.8688", "lng": "151.2093" },
-  { "id": 11, "name": "Mexico - Mexico City", "lat": "19.4326", "lng": "-99.1332" },
-  { "id": 12, "name": "South Korea - Seoul", "lat": "37.5665", "lng": "126.9780" },
-  { "id": 13, "name": "Italy - Rome", "lat": "41.9028", "lng": "12.4964" },
-  { "id": 14, "name": "Spain - Madrid", "lat": "40.4168", "lng": "-3.7038" },
-  { "id": 15, "name": "Turkey - Istanbul", "lat": "41.0082", "lng": "28.9784" },
-  { "id": 16, "name": "Russia - Moscow", "lat": "55.7558", "lng": "37.6173" },
-  { "id": 17, "name": "Argentina - Buenos Aires", "lat": "-34.6037", "lng": "-58.3816" },
-  { "id": 18, "name": "South Africa - Cape Town", "lat": "-33.9249", "lng": "18.4241" },
-  { "id": 19, "name": "Saudi Arabia - Riyadh", "lat": "24.7136", "lng": "46.6753" }
+  { "id": 1, "name": "Random", "lat": "0", "lng": "0" },
+  { "id": 2, "name": "Indonesia", "lat": "-6.2000", "lng": "106.8166" },
+  { "id": 3, "name": "United States", "lat": "38.9072", "lng": "-77.0369" },
+  { "id": 4, "name": "Brazil", "lat": "-15.7939", "lng": "-47.8828" },
+  { "id": 5, "name": "United Kingdom", "lat": "51.5074", "lng": "-0.1278" },
+  { "id": 6, "name": "Germany", "lat": "52.5200", "lng": "13.4050" }
 ]
