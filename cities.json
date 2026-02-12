@@ -36,5 +36,26 @@
   { "id": 30, "country_id": 6, "name": "Munich", "lat": "48.1351", "lng": "11.5820" },
   { "id": 31, "country_id": 6, "name": "Cologne", "lat": "50.9375", "lng": "6.9603" },
   { "id": 32, "country_id": 6, "name": "Frankfurt", "lat": "50.1109", "lng": "8.6821" },
-  { "id": 33, "country_id": 6, "name": "Stuttgart", "lat": "48.7758", "lng": "9.1829" }
+  { "id": 33, "country_id": 6, "name": "Stuttgart", "lat": "48.7758", "lng": "9.1829" },
+  { "id": 34, "country_id": 7, "name": "Bangkok", "lat": "13.7563", "lng": "100.5018" },
+  { "id": 35, "country_id": 7, "name": "Chiang Mai", "lat": "18.7883", "lng": "98.9853" },
+  { "id": 36, "country_id": 7, "name": "Phuket", "lat": "7.8804", "lng": "98.3923" },
+
+  { "id": 37, "country_id": 8, "name": "Singapore", "lat": "1.3521", "lng": "103.8198" },
+
+  { "id": 38, "country_id": 9, "name": "Paris", "lat": "48.8566", "lng": "2.3522" },
+  { "id": 39, "country_id": 9, "name": "Lyon", "lat": "45.7640", "lng": "4.8357" },
+  { "id": 40, "country_id": 9, "name": "Marseille", "lat": "43.2965", "lng": "5.3698" },
+
+  { "id": 41, "country_id": 10, "name": "Tokyo", "lat": "35.6895", "lng": "139.6917" },
+  { "id": 42, "country_id": 10, "name": "Osaka", "lat": "34.6937", "lng": "135.5023" },
+  { "id": 43, "country_id": 10, "name": "Kyoto", "lat": "35.0116", "lng": "135.7681" },
+
+  { "id": 44, "country_id": 11, "name": "Sydney", "lat": "-33.8688", "lng": "151.2093" },
+  { "id": 45, "country_id": 11, "name": "Melbourne", "lat": "-37.8136", "lng": "144.9631" },
+  { "id": 46, "country_id": 11, "name": "Brisbane", "lat": "-27.4698", "lng": "153.0251" },
+
+  { "id": 47, "country_id": 12, "name": "Ottawa", "lat": "45.4215", "lng": "-75.6972" },
+  { "id": 48, "country_id": 12, "name": "Toronto", "lat": "43.6532", "lng": "-79.3832" },
+  { "id": 49, "country_id": 12, "name": "Vancouver", "lat": "49.2827", "lng": "-123.1207" }
 ]

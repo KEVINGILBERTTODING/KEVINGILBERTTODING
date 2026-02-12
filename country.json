@@ -2,7 +2,12 @@
   { "id": 1, "name": "Random", "lat": "0", "lng": "0" },
   { "id": 2, "name": "Indonesia", "lat": "-6.2000", "lng": "106.8166" },
   { "id": 3, "name": "United States", "lat": "38.9072", "lng": "-77.0369" },
-  { "id": 4, "name": "Brazil", "lat": "-15.7939", "lng": "-47.8828" },
   { "id": 5, "name": "United Kingdom", "lat": "51.5074", "lng": "-0.1278" },
-  { "id": 6, "name": "Germany", "lat": "52.5200", "lng": "13.4050" }
+  { "id": 6, "name": "Germany", "lat": "52.5200", "lng": "13.4050" },
+   { "id": 7, "name": "Thailand", "lat": "15.8700", "lng": "100.9925" },
+  { "id": 8, "name": "Singapore", "lat": "1.3521", "lng": "103.8198" },
+  { "id": 9, "name": "France", "lat": "48.8566", "lng": "2.3522" },
+  { "id": 10, "name": "Japan", "lat": "35.6895", "lng": "139.6917" },
+  { "id": 11, "name": "Australia", "lat": "-33.8688", "lng": "151.2093" },
+  { "id": 12, "name": "Canada", "lat": "45.4215", "lng": "-75.6972" }
 ]
